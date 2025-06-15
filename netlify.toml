@@ -1,0 +1,4 @@
+[build]
+  base = "CareerCompass-replit-agent"
+  command = "npm run build"
+  publish = "CareerCompass-replit-agent/dist"
