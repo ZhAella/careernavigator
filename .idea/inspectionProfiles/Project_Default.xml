@@ -1,0 +1,49 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="apscheduler" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E117" />
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="to_do_list.www.models.Task.objects" />
+          <option value="restframwork_web.www.models.Food.objects" />
+          <option value="restframwork_web.www.serializers.data" />
+          <option value="rest_framework_simplejwt.tokens.Token.access_token" />
+          <option value="to_do_list.www.models.Status.objects" />
+          <option value="FloElla.www.models.users" />
+          <option value="FloElla.www.cron.users" />
+          <option value="FloElla.www.models.MenstrualDayStatus.objects" />
+          <option value="FloElla.www.scheduler.users" />
+          <option value="FloElla.www.jobs.users" />
+          <option value="FloElla.www.models.MenstrualDayStatusWomenDay" />
+          <option value="FloElla.www.models.MenstrualDayStatusSerializer" />
+          <option value="djoser.views.TokenObtainPairView" />
+          <option value="djoser.views.UserCreateView" />
+          <option value="djoser.views.PasswordResetView" />
+          <option value="djoser.views.TokenRefreshView" />
+          <option value="FloElla.www.views.date" />
+          <option value="FloElla.www.models.Symptom.objects" />
+          <option value="FloElla.www.views.users" />
+          <option value="FloElla.www.models.UserSymptom.objects" />
+          <option value="FloElla.www.models.SymptomName.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
